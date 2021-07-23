@@ -179,13 +179,13 @@ hr{
 }
  
 #circle-cover-bg{
-    background: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/video-mask.png") no-repeat center center;
+    background: url("images/video-mask.png") no-repeat center center;
     height:100%;
     border-radius: 50%;
 }
 
 #times{
-    background-image: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/dublin-city.png");
+    background-image: url("images/dublin-city.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -247,7 +247,7 @@ footer{
 
 .form-section {
     clear: left;
-    background: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
+    background: url("images/formbg.jpg");
     background-size: cover;
     background-position: center;
     height: 900px;

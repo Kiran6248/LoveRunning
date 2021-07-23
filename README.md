@@ -2,8 +2,8 @@
 
 ## Front end project using HTML and CSS
 
-![image]()
+[view live site](https://kiran6248.github.io/LoveRunning/)
 
-[view live site]()
+![image](images/running.JPG)
 
 A front end project using HTML and CSS for Code Institute course.
